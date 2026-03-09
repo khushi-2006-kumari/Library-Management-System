@@ -9,7 +9,7 @@ Features:
 -Infinite menu driven program for continuous use.
 
 Technologies used:
--Pyhton
+-Python
 -OOP(classes & Objects)
 -Dictionary for book-borrower mapping
 -while loop for continuous user interaction
