@@ -1,5 +1,5 @@
 Library Management System:
-A simple Python based Library Management Syatem that allows users to manage books in a library using Object-Oriented-Programming (OOP) concepts.
+A simple C++ based Library Management Syatem that allows users to manage books in a library using Object-Oriented-Programming (OOP) concepts.
 
 Features:
 -Display all available books
@@ -9,7 +9,7 @@ Features:
 -Infinite menu driven program for continuous use.
 
 Technologies used:
--Python
+-C++
 -OOP(classes & Objects)
 -Dictionary for book-borrower mapping
 -while loop for continuous user interaction
